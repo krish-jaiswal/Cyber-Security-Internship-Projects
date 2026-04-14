@@ -82,7 +82,6 @@ This project demonstrates how phishing attacks work and analyzes user behavior.
 
 ##  Screenshots
 
-(Add screenshots here)
 - Fake login page ##<img width="1902" height="934" alt="Screenshot 2026-04-04 160512" src="https://github.com/user-attachments/assets/1e366e65-6979-4be6-b656-a611c0a3c31b" /> 
 - Google Sheets data <img width="1918" height="870" alt="Screenshot 2026-04-04 164222" src="https://github.com/user-attachments/assets/a076cc0a-ee96-4f69-bd30-b9afeb043638" />
  
